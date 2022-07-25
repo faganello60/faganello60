@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Bruno Faganello, iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Brazil</b></p>
+<p>Welcome to my page! </br> I'm Bruno Faganello, iOS developer from <b>Brazil</b></p>
 <h3>Things I love:</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
