@@ -5,7 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="Arduino" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 <h3>Open source projects</h3>
 <table>
