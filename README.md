@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Bruno Faganello, iOS developer from <b>Brazil</b></p>
-<h3>Things I love:</h3>
+<h3>Languages and Tools:</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
  	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
